@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Phan Manh Duc Nguyen'
+- **CCID:** 'phanmanh`
 
 ## References and Resources
 
